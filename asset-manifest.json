@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/bank-credit/static/css/main.bc4b8860.chunk.css",
+    "main.js": "/bank-credit/static/js/main.2901c31d.chunk.js",
+    "main.js.map": "/bank-credit/static/js/main.2901c31d.chunk.js.map",
+    "runtime-main.js": "/bank-credit/static/js/runtime-main.751c5c35.js",
+    "runtime-main.js.map": "/bank-credit/static/js/runtime-main.751c5c35.js.map",
+    "static/css/2.e068ace3.chunk.css": "/bank-credit/static/css/2.e068ace3.chunk.css",
+    "static/js/2.244add5b.chunk.js": "/bank-credit/static/js/2.244add5b.chunk.js",
+    "static/js/2.244add5b.chunk.js.map": "/bank-credit/static/js/2.244add5b.chunk.js.map",
+    "index.html": "/bank-credit/index.html",
+    "precache-manifest.c9d902556be35fc00c30963f3b0fa0aa.js": "/bank-credit/precache-manifest.c9d902556be35fc00c30963f3b0fa0aa.js",
+    "service-worker.js": "/bank-credit/service-worker.js",
+    "static/css/2.e068ace3.chunk.css.map": "/bank-credit/static/css/2.e068ace3.chunk.css.map",
+    "static/css/main.bc4b8860.chunk.css.map": "/bank-credit/static/css/main.bc4b8860.chunk.css.map",
+    "static/js/2.244add5b.chunk.js.LICENSE.txt": "/bank-credit/static/js/2.244add5b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/bank-credit/static/media/1.27ee752b.png",
+    "static/media/2.png": "/bank-credit/static/media/2.65f9ffee.png",
+    "static/media/3.png": "/bank-credit/static/media/3.05306f6b.png",
+    "static/media/4.png": "/bank-credit/static/media/4.42c4f59e.png",
+    "static/media/5.png": "/bank-credit/static/media/5.bf5cab17.png",
+    "static/media/6.png": "/bank-credit/static/media/6.5a394d69.png",
+    "static/media/7.png": "/bank-credit/static/media/7.6cd8dfe3.png",
+    "static/media/Logo.png": "/bank-credit/static/media/Logo.b423cd2e.png",
+    "static/media/layout.scss": "/bank-credit/static/media/SF-Pro-Text-Semibold.9a7c849b.otf",
+    "static/media/i1.webp": "/bank-credit/static/media/i1.b6957a2d.webp",
+    "static/media/i2.webp": "/bank-credit/static/media/i2.bb92e692.webp",
+    "static/media/i3.webp": "/bank-credit/static/media/i3.59cf14d6.webp",
+    "static/media/i4.webp": "/bank-credit/static/media/i4.317e4ebf.webp",
+    "static/media/i5.webp": "/bank-credit/static/media/i5.c9cfccb3.webp",
+    "static/media/i6.webp": "/bank-credit/static/media/i6.31d54c99.webp",
+    "static/media/i7.webp": "/bank-credit/static/media/i7.b8101f8b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.751c5c35.js",
+    "static/css/2.e068ace3.chunk.css",
+    "static/js/2.244add5b.chunk.js",
+    "static/css/main.bc4b8860.chunk.css",
+    "static/js/main.2901c31d.chunk.js"
+  ]
+}
